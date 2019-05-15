@@ -9,4 +9,4 @@
       .price
         p 
           - currency = data.settings.units.currency || 'Naira' 
-          = product.price.to_s + " " currency
+          = product.price.to_s ' ' + currency
