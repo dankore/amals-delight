@@ -63,7 +63,6 @@ const NavigationPreview = ({ entry }) => {
   )
 }
 
-CMS.registerPreviewTemplate('blog', BlogPreview)
 CMS.registerPreviewTemplate('product', ProductPreview)
 CMS.registerPreviewTemplate('home', HomePreview)
 CMS.registerPreviewTemplate('navigation', NavigationPreview)
