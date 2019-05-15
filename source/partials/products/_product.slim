@@ -8,6 +8,6 @@
         h3 = product.title
       .price
         p 
-          - currency = data.settings.units.currency || '€' 
+          - currency = data.settings.units.currency || 'Naira' 
           = currency + product.price.to_s 
       
