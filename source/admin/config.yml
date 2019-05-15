@@ -76,7 +76,7 @@ collections:
           - label: Currency
             name: currency
             widget: select
-            options: ['€', '$', '£']
-            default: '€'
+            options: ['Naira', '$', '£']
+            default: 'Naira'
 
           
