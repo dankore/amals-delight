@@ -2,8 +2,8 @@
     <title>Logo</title>
     <g transform="translate(-1470)" figma:type="canvas">
         <g style="mix-blend-mode:normal" figma:type="vector" transform="translate(1470)" fill="#f40">
-            <use xlink:href="#a" style="mix-blend-mode:normal"/>
-            <use xlink:href="#b" style="mix-blend-mode:normal"/>
+            <use xlink:href="#a" />
+            <use xlink:href="#b" />
           
         </g>
     </g>
