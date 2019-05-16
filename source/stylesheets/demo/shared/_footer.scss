@@ -2,6 +2,10 @@ footer {
   position: relative;
   background-color: $text-color;
   color: white !important;
+  p {
+    font-size: 12px;
+    margin-top: 10px;
+  }
   
 
   .header-primary {
