@@ -7,7 +7,7 @@ const ProductPreview = ({ entry, widgetFor }) => {
         <div className="meta">
           <h1>{data.title}</h1>
           <div className="price">
-            <span>{`${data.price} + ' ' + Naira`}</span>
+            <span>{`${data.price} Naira`}</span>
           </div>
         </div>
         <div className="body">{widgetFor('body')}</div>
