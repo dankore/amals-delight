@@ -21,10 +21,14 @@
     @extend %img-responsive;
   }
 
-  .product-image, .product-content {
-    background-color: #fff;
-  }
+  // .product-image, .product-content {
+  //   background-color: #fff;
+  // }
 
+  .product-image {
+    width: 300px;
+    height: 300px;
+  }
   .product-content {
     padding: 10px 30px;
   }
