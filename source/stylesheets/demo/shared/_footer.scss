@@ -1,6 +1,7 @@
 footer {
   position: relative;
   background-color: $text-color;
+  color: white;
   
 
   .header-primary {
@@ -11,10 +12,6 @@ footer {
 
   .footer-content {
     padding: 30px 15px 60px;
-    h4 {
-    color: white !important;
-    margin-top: 5px;
-  }
   }
 
   .newsletter {
@@ -40,7 +37,6 @@ footer {
       padding: 15px;
       background-color: #fff;
       border-radius: 50%;
-      color: white;
 
     }
     img {
