@@ -1,4 +1,4 @@
 nav_items: 
   - {label: 'Home', path: '/'}
-  - {label: 'Products', path: '/products/'}
+  - {label: 'Menu', path: '/products/'}
 
