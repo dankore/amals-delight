@@ -1,7 +1,10 @@
 footer {
   position: relative;
   background-color: $text-color;
-  color: white;
+  p {
+    color: white;
+    margin-top: 5px;
+  }
 
   .header-primary {
     position: relative;
