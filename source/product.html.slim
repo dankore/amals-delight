@@ -6,7 +6,7 @@
 
       .price
         - currency = data.settings.units.currency || 'Naira' 
-        span = product.price.to_s + ' ' + currency
+        p = product.price.to_s + ' ' + currency
 
     .body
       = markdown product.body
