@@ -2,12 +2,12 @@
     <title>Logo</title>
     <g transform="translate(-1470)" figma:type="canvas">
         <g style="mix-blend-mode:normal" figma:type="vector" transform="translate(1470)" fill="#f40">
-            <use xlink:href="#b" style="mix-blend-mode:normal"/>
+            <!--<use xlink:href="#b" style="mix-blend-mode:normal"/>-->
             <use xlink:href="#c" style="mix-blend-mode:normal"/>
-            <use xlink:href="#d" style="mix-blend-mode:normal"/>
+            <!--<use xlink:href="#d" style="mix-blend-mode:normal"/>-->
             <use xlink:href="#e" style="mix-blend-mode:normal"/>
-            <use xlink:href="#f" style="mix-blend-mode:normal"/>
-            </g>
+            <!--<use xlink:href="#f" style="mix-blend-mode:normal"/>-->
+        </g>
     </g>
     <defs>
         <!--<path id="b" d="M22.735 23.171c.283.323.053.829-.376.829h-5.907c-.285 0-.556-.121-.745-.333l-9.414-10.526v10.36c0 .276-.224.5-.5.5h-5.293c-.276 0-.5-.224-.5-.5v-23c0-.276.224-.5.5-.5h5.293c.276 0 .5.224.5.5v9.815l9.141-9.99c.19-.207.457-.325.738-.325h5.762c.437 0 .664.521.366.841l-9.851 10.563 10.287 11.767z"/>-->
